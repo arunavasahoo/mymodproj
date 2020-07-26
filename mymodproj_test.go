@@ -3,7 +3,7 @@ package mymodproj
 import "testing"
 
 func TestReturnString(t *testing.T){
-        w := "Arun"
+        w := "ArunavaSahoo"
         if x :=ReturnString(w); x == " " {
                 t.Errorf(x)
         }
